@@ -1,2 +1,2 @@
-# joao victor java basico
- códigos de java criados durante aulas de poo na faculdade
+# JAVA BÁSICO
+ Repositório com alguns códigos simples desenvolvidos durante as aulas de Programação Orientada a Objetos.
